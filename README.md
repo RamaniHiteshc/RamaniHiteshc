@@ -1,5 +1,5 @@
-### Hi there 👋
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey, I'm Hitesh 👋
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://stackoverflow.com/users/5478736/ramani-hitesh">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />
 </a>
@@ -31,3 +31,10 @@ Here are some ideas to get you started
 ⚡️  Fun fact about me: I love playing 🕹 retro games and survive on ☕️ instead of energy drinks 🙇🏻‍♂️  Possibly this is why I also talk a lot 🤔
 📫  Reach me [at] ramanihiteshc.blogspot.com
 ☕️  You can support me in maintaining my open source work by buying me a coffee or sponsoring me on GitHub 🤗
+
+## Skills
+- 👨‍💻 Swift ,Android , Objective C
+- ⚙️ React Native,, Flutter
+- 👁️ SASS, CSS, Stylus
+- 💽 MySQL, SQL, Mongo ,SQlite
+
