@@ -21,7 +21,7 @@
 
 Here are some ideas to get you started
 -->
-👨🏻‍💻  I’m an Software Engineer and CEO Darkswift Infotech Surat ,India.
+👨🏻‍💻  I’m an Software Engineer and CEO Darkswift Infotech Surat ,India. <br/>
 👨🏻‍🔬  I like experimenting with tech. This has led me into many interesting domains such as writing firmware code for custom wearable hardware and building mobile SDKs for enabling DSP on Android and iOS .
 🤗  I love contributing to the open-source ecosystem and the community by giving talks, writing blog posts, co-authoring/reviewing books, building Android libraries, etc. whenever I can.
 🌱  I’m currently (trying to) learn Python Language  , React Native , Flutter Language
