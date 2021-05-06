@@ -41,7 +41,7 @@ Here are some ideas to get you started
 - 👁️ SASS, CSS, Stylus
 - 💽 MySQL, SQL, Mongo ,SQlite
 
-## :Darkswift Infotech : Find us on
+## Darkswift Infotech : Find us on
 
 <div align="center">
 	<a href="https://github.com/RamaniHiteshc/RamaniHiteshc"> GitHub </a> / <a href="https://www.facebook.com/darkswiftinfotech/"> Facebook </a> / <a href="https://twitter.com/androiddevnotes"> Twitter </a> / <a href="https://www.instagram.com/darkswiftinfotech/"> Instagram </a> / <a href="https://medium.com/@ramanihiteshc"> Medium </a>
