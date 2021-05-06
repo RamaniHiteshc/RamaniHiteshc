@@ -44,7 +44,7 @@ Here are some ideas to get you started
 ## Darkswift Infotech : Find us on
 
 <div align="center">
-	<a href="https://github.com/RamaniHiteshc/RamaniHiteshc"> GitHub </a> / <a href="https://www.facebook.com/darkswiftinfotech/"> Facebook </a> / <a href="https://twitter.com/androiddevnotes"> Twitter </a> / <a href="https://www.instagram.com/darkswiftinfotech/"> Instagram </a> / <a href="https://medium.com/@ramanihiteshc"> Medium </a>
+	<a href="https://github.com/RamaniHiteshc/RamaniHiteshc" style="color:#000000;"> GitHub </a> / <a href="https://www.facebook.com/darkswiftinfotech/" style="color:#000000;"> Facebook </a> / <a href="https://twitter.com/androiddevnotes" style="color:#000000;"> Twitter </a> / <a href="https://www.instagram.com/darkswiftinfotech/" style="color:#000000;"> Instagram </a> / <a href="https://medium.com/@ramanihiteshc" style="color:#000000;"> Medium </a>
 	<br><br>
     <img width="320px" src="https://github.com/RamaniHiteshc/RamaniHiteshc/blob/main/photos/COMPANY%20LOGO.png" alt="androiddevnotes logo"></img>
 </div>
