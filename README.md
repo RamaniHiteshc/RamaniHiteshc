@@ -1,6 +1,6 @@
 #  I am Ramani Hitesh , nice to meet you! 👋<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://stackoverflow.com/users/5478736/ramani-hitesh">
-  <img align="left" alt="Abhishek's Discord" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />
+  <img align="left" alt="Abhishek's Discord" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />
 </a>
 <a href="https://twitter.com/ramanihiteshc">
   <img align="left" alt="Ramani hitesh | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
