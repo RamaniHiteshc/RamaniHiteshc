@@ -1,4 +1,5 @@
 #  I am Ramani Hitesh , Nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ramanihiteshc) 
+<img src="" alt="GitHub followers" data-canonical-src="https://img.shields.io/twitter/follow/ramanihiteshc?color=3ddc84&amp;label=Followers&amp;style=for-the-badge&amp;logo=github" style="max-width:100%;">
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ramanihiteshc?style=social">
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/darkswiftinfo?style=social">
 <a href="https://stackoverflow.com/users/5478736/ramani-hitesh">
