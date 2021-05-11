@@ -43,6 +43,14 @@ Here are some ideas to get you started
 - 👁️ SASS, CSS, Stylus
 - 💽 MySQL, SQL, Mongo ,SQlite
 
+## Contact
+#### Ramani Hitesh
+* :globe_with_meridians: Website: [ramanihiteshc.blogspot.com](https://www.ramanihiteshc.blogspot.com "ramani hitesh")
+* :email: E-mail: ramanihiteshc@gmail.com
+* :mag_right: LinkedIn: [RamaniHitesh](https://www.linkedin.com/in/ramanihiteshc "ramani hitesh on LinkedIn")
+* :thumbsup: Twitter: [@ramanihiteshc](https://twitter.com/ramanihiteshc "Ramani Hitesh on twitter")   
+* :camera: Instagram: [@ramanihites](https://www.instagram.com/ramanihites/ "Ramani Hitesh on Instagram")   
+
 ## Darkswift Infotech : Find us on
 
 <div align="center">
