@@ -45,7 +45,7 @@ Here are some ideas to get you started
 
 ## Contact
 #### Ramani Hitesh
-* :globe_with_meridians: Website: [ramanihiteshc.blogspot.com](https://ramanihiteshc.blogspot.com/"ramani hitesh")
+* :globe_with_meridians: Website:[ramanihiteshc.blogspot.com](https://www.ramanihiteshc.blogspot.com "Ramani  Hitesh")
 * :email: E-mail: ramanihiteshc@gmail.com
 * :mag_right: LinkedIn: [RamaniHitesh](https://www.linkedin.com/in/ramanihitesh "ramani hitesh on LinkedIn")
 * :thumbsup: Twitter: [@ramanihiteshc](https://twitter.com/ramanihiteshc "Ramani Hitesh on twitter")   
