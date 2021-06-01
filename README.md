@@ -39,7 +39,7 @@ Here are some ideas to get you started
 
 ## Skills
 - 👨‍💻 Swift ,Android , Objective C
-- ⚙️ React Native,, Flutter
+- ⚙️ React Native, Flutter
 - 👁️ SASS, CSS, Stylus
 - 💽 MySQL, SQL, Mongo ,SQlite
 
